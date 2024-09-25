@@ -40,12 +40,12 @@ To run this project on your local machine, follow the steps below:
    ```bash
    ./task_manager
 
-- ** Usage **
+- Usage
 Upon running the program, you will be presented with a simple command-line menu. Here’s how you can use the system:
 
-- ** Add a Task: Choose the option to add a new task and provide its title, description, deadline, and priority level.
-- ** View Tasks: View all tasks in a list format. You can sort them by priority or deadline to manage them efficiently.
-- ** Edit a Task: Select an existing task to update its details or mark it as completed.
-- ** Delete a Task: Remove tasks from the system once completed or no longer needed.
-- ** Persistent Storage: The system saves tasks to a file, so they are preserved between program sessions.
+- **Add a Task:** Choose the option to add a new task and provide its title, description, deadline, and priority level.
+- **View Tasks:** View all tasks in a list format. You can sort them by priority or deadline to manage them efficiently.
+- **Edit a Task:** Select an existing task to update its details or mark it as completed.
+- **Delete a Task:** Remove tasks from the system once completed or no longer needed.
+- **Persistent Storage:** The system saves tasks to a file, so they are preserved between program sessions.
 
