@@ -4,7 +4,7 @@
 **Program:** BS in Computer Science  
 **Institution:** Technological Institute of the Philippines  
 **Year Level:** First Year
-**Group Name:** @Mmarsharctechnologies
+**Group Name:** @marsharctechnologies
 
 ## Project Overview
 
